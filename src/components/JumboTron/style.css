@@ -1,0 +1,14 @@
+.title, .lead{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.jumbotron{
+    margin-top: 90px;
+    background-image: url(geometry-wallpapers-25220-5202012.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+    font-weight: 600;
+    height: 300px;
+}
